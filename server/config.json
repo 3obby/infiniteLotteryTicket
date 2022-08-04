@@ -1,0 +1,8 @@
+{
+    "infuraAPIkey" : "https://mainnet.infura.io/v3/{apiKey}",
+    "mailgunAPIkey" : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-xxxxxxxx-xxxxxxxx",
+    "mailgunDomain" : "sandboxdxxxxxxxxxxxxxxxxxxxxx.mailgun.org",
+    "emailRecipient1" : "xxxxxxxx@gmail.com",
+    "emailRecipient2" : "xxxxxxxx@gmail.com",
+    "emailRecipient3" : "xxxxxxxx@gmail.com"
+}
